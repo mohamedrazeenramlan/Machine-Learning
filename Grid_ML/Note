@@ -1,0 +1,5 @@
+This will help you to build a custom Grid World for Machine Learning and it is the perfect way to 
+understand the core math of Reinforcement Learning. 
+We will build the environment from scratch. 
+We are going to USE 5x3 Grid 3 Rows and 5 Columns where the agent is Located at (0,0) the target is (4,0) and Wall are in (2,0),(2,1) and (3,0).
+Here Using Q Learning and Reporting Code to Generate report of it location and reward.
